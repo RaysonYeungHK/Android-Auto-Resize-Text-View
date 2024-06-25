@@ -80,7 +80,7 @@ There are lots of custom implementation for TextView to achieve auto sizing, but
 
 ### References
 
-[Autosize TextViews](https://developer.android.com/develop/ui/views/text-and-emoji/autosizing-textview)
+[Autosize TextViews | Android Developers](https://developer.android.com/develop/ui/views/text-and-emoji/autosizing-textview)
 
 [View | Android Developers](https://developer.android.com/reference/android/view/View)
 
