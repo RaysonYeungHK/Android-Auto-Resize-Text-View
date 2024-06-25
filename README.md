@@ -89,3 +89,13 @@ There are lots of custom implementation for TextView to achieve auto sizing, but
 ### Index
 
 - [Overview](#overview)
+
+- [Idea](#idea)
+
+- [Explanation](#explanation)
+
+- [Integration Guideline](#integration-guideline
+
+- [Known issues](#known-issues)
+
+- [References](#references)
