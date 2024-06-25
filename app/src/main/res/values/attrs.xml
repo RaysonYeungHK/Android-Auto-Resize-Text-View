@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AutoSizeTextView">
+        <!-- reuse as much as system default attributes -->
+        <attr name="android:autoSizeMinTextSize" />
+        <attr name="android:autoSizeMaxTextSize" />
+        <attr name="android:textSize" />
+        <attr name="android:maxLines" />
+    </declare-styleable>
+</resources>
